@@ -3,18 +3,17 @@
 	construct = 1
 
 /datum/species/construct/metal/porcelain
-	name = "Doll"
-	id = "doll"
+	name = "Marionette"
+	id = "marionette"
 	use_titles = TRUE
 	race_titles = list("Homunculus", "Mannequin", "Marionette", "Puppet")
-	desc = "<b>Porcelain Doll</b><br>\
-	The pinnacle of both art and craftsmanship, originally made to provide companionship for ladies and wealthy women \
-	alike. Created to be simply toys or novelty decorations for the wealthy, they do not sleep, eat or bleed. However, \
-	due to their dark magic and heretical origin that even their stronger cousin share; They were made to be incredibly \
-	brittle as to promote their subservience and remove any chance these somber creations have of killing their masters. \
-	Over time, they were seen to prove as valuable asset and advisory role due to their intellectual prowess, it is \
-	unknown what provided them with such a gift. A master wanting more engaging conversation? A lord wanting a more \
-	efficient clerk? Regardless, who knows what them eyes made of glass truly reflect...<br> \
+	desc = "<b>Marionette</b><br>\
+	Marionettes are strange, inorganic creations found dormant and still within the Machine. \
+	Whatever caused any individual Marionette to be depowered is often a question lost to time, as they do not recall \
+	memories from their past lives, and are 'reborn' only with the most basic of knowledge in order to function. \
+	Although eerily lifelike, they are often made of extremely brittle material unsuited for the horrors of war, and are \
+	thus not often brought to the battlefield. Those that are, however, often exist solely to be medical aids or \
+	requisition officers, subservient and loyal to whoever woke them from their stupor and granted them new life.
 	<span style='color: #cc0f0f;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;'><b>-2 STR</span> |<span style='color: #6a8cb7;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;'> +2 INT | +1 SPD</b></span> </br> \
 	<span style='color: #cc0f0f;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;'><b><span style='color: #6a8cb7;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;'>Hungerless, Insomnia, Bloodless. Extremely fragile.</span></b></br>"
 
